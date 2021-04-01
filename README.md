@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+В этом репозитории есть `dataset.json`.
+
+Я хочу создать React-приложение, которое выводит на один график `MinTemp` и `MaxTemp` за определенный период времени.
+
+В приложении должны быть возможность фильтрации данных по `Location` и календарь для выбора диапазона дат.
